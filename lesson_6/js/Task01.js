@@ -10,3 +10,4 @@ const getTableDegree = () => {
 }
 
 getTableDegree ();
+console.log('');
